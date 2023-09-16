@@ -90,3 +90,10 @@ On the Web Browser verify that the  traffic flows accordingly
 Repeat steps 2 and 3 but set the Weight to Canary increasingly, but the for Version 2 descendingly until you reach the Weight: Canary 100% and Version 0%
 Test on the Browser if the traffic is 100% on the Canary version.
 Congratulations! You’ve done your project!
+
+Hours shared between team:
+Gulnaz 10
+Aigerim 10
+Nurali 10
+Elyssa 10
+
